@@ -1,0 +1,10 @@
+﻿  manager.cpp
+  orderFile.cpp
+  student.cpp
+C:\Users\yuanjiafei\Desktop\c++学习项目\机房\student.cpp(64,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\yuanjiafei\Desktop\c++学习项目\机房\student.cpp(197,29): warning C4018: “<=”: 有符号/无符号不匹配
+  teacher.cpp
+C:\Users\yuanjiafei\Desktop\c++学习项目\机房\teacher.cpp(96,29): warning C4018: “<=”: 有符号/无符号不匹配
+  机房预约系统.cpp
+  正在生成代码...
+  机房.vcxproj -> C:\Users\yuanjiafei\Desktop\c++学习项目\机房\Debug\机房.exe
